@@ -1,6 +1,5 @@
 # What is this?
-Read the F-Secure Blog: (TODO)
-
+Read the F-Secure Blog: https://labs.f-secure.com/blog/helping-root-out-of-the-container/
 # Build
 ```
 make
